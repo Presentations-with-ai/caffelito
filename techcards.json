@@ -1,0 +1,5437 @@
+{
+  "updated": "06.05.2026",
+  "brand": "Caffelito Coffee",
+  "categories": [
+    {
+      "ru": "Кофе горячий",
+      "uz": "Issiq qahva"
+    },
+    {
+      "ru": "Кофе холодный",
+      "uz": "Sovuq qahva"
+    },
+    {
+      "ru": "Авторские",
+      "uz": "Mualliflik ichimliklar"
+    },
+    {
+      "ru": "Чай",
+      "uz": "Choy"
+    },
+    {
+      "ru": "Матча",
+      "uz": "Matcha"
+    },
+    {
+      "ru": "Дрип / Батч",
+      "uz": "Drip / Batch"
+    },
+    {
+      "ru": "Лимонады",
+      "uz": "Limonadlar"
+    },
+    {
+      "ru": "Сезонные",
+      "uz": "Mavsumiy"
+    }
+  ],
+  "recipes": [
+    {
+      "id": "espresso-classic",
+      "name": {
+        "ru": "Эспрессо классик",
+        "uz": "Klassik espresso"
+      },
+      "category": {
+        "ru": "Кофе горячий",
+        "uz": "Issiq qahva"
+      },
+      "glass": {
+        "ru": "Выход 36–40 г",
+        "uz": "Chiqish 36–40 g"
+      },
+      "volumes": {
+        "ru": [
+          "36–40 г"
+        ],
+        "uz": [
+          "36–40 g"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "36–40 г",
+            "uz": "36–40 g"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Молотый кофе",
+                "uz": "Maydalangan qahva"
+              },
+              "amount": {
+                "ru": "18 г",
+                "uz": "18 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "36–40 г",
+                "uz": "36–40 g"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Молотый кофе дозировать в холдер.",
+          "Утрамбовать кофе с помощью темпера.",
+          "Закрепить холдер с кофе в группе эспрессо-машины.",
+          "Незамедлительно включить кнопку пролива."
+        ],
+        "uz": [
+          "Maydalangan qahvani holderga dozalash.",
+          "Qahvani temper yordamida presslash.",
+          "Qahvali holderni espresso mashinasi guruhiga mahkamlash.",
+          "Darhol quyish tugmasini yoqish."
+        ]
+      },
+      "notes": {
+        "ru": [
+          "Эспрессо готовить исключительно по весам.",
+          "Рецепт: вход 17,8–18,3 г, выход 36–40 г, экстракция 23–28 сек."
+        ],
+        "uz": [
+          "Espresso faqat tarozi bo‘yicha tayyorlanadi.",
+          "Retsept: kirish 17,8–18,3 g, chiqish 36–40 g, ekstraksiya 23–28 soniya."
+        ]
+      }
+    },
+    {
+      "id": "americano",
+      "name": {
+        "ru": "Американо",
+        "uz": "Amerikano"
+      },
+      "category": {
+        "ru": "Кофе горячий",
+        "uz": "Issiq qahva"
+      },
+      "glass": {
+        "ru": "Стакан 100 мл / 150–500 мл",
+        "uz": "Stakan 100 ml / 150–500 ml"
+      },
+      "volumes": {
+        "ru": [
+          "150 мл",
+          "300 мл",
+          "400 мл",
+          "500 мл"
+        ],
+        "uz": [
+          "150 ml",
+          "300 ml",
+          "400 ml",
+          "500 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "150 мл",
+            "uz": "150 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "150 мл",
+                "uz": "150 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "36–40 г",
+                "uz": "36–40 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Горячая вода",
+                "uz": "Issiq suv"
+              },
+              "amount": {
+                "ru": "90 мл",
+                "uz": "90 ml"
+              }
+            }
+          ]
+        },
+        {
+          "size": {
+            "ru": "300 мл",
+            "uz": "300 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "300 мл",
+                "uz": "300 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "36–40 г",
+                "uz": "36–40 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Горячая вода",
+                "uz": "Issiq suv"
+              },
+              "amount": {
+                "ru": "240 мл",
+                "uz": "240 ml"
+              }
+            }
+          ]
+        },
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "400 мл",
+                "uz": "400 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "36–40 г",
+                "uz": "36–40 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Горячая вода",
+                "uz": "Issiq suv"
+              },
+              "amount": {
+                "ru": "340 мл",
+                "uz": "340 ml"
+              }
+            }
+          ]
+        },
+        {
+          "size": {
+            "ru": "500 мл",
+            "uz": "500 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "500 мл",
+                "uz": "500 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "54–60 г",
+                "uz": "54–60 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Горячая вода",
+                "uz": "Issiq suv"
+              },
+              "amount": {
+                "ru": "410 мл",
+                "uz": "410 ml"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Приготовить классический эспрессо в питчер.",
+          "В питчер добавить горячей воды из бойлера, после перелить в чашку.",
+          "Влить эспрессо, сохранив крема."
+        ],
+        "uz": [
+          "Klassik espressoni pitcherda tayyorlash.",
+          "Pitcherga boylerdan issiq suv qo‘shish, keyin chashkaga quyish.",
+          "Kremani saqlagan holda espressoni quyish."
+        ]
+      },
+      "notes": {
+        "ru": [],
+        "uz": []
+      }
+    },
+    {
+      "id": "cappuccino",
+      "name": {
+        "ru": "Капучино",
+        "uz": "Kapuchino"
+      },
+      "category": {
+        "ru": "Кофе горячий",
+        "uz": "Issiq qahva"
+      },
+      "glass": {
+        "ru": "Стакан 200/300/400/500 мл",
+        "uz": "Stakan 200/300/400/500 ml"
+      },
+      "volumes": {
+        "ru": [
+          "200 мл",
+          "300 мл",
+          "400 мл",
+          "500 мл"
+        ],
+        "uz": [
+          "200 ml",
+          "300 ml",
+          "400 ml",
+          "500 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "200 мл",
+            "uz": "200 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "200 мл",
+                "uz": "200 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "20–21 г",
+                "uz": "20–21 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "130 мл",
+                "uz": "130 ml"
+              }
+            }
+          ]
+        },
+        {
+          "size": {
+            "ru": "300 мл",
+            "uz": "300 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "300 мл",
+                "uz": "300 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "36–40 г",
+                "uz": "36–40 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "180 мл",
+                "uz": "180 ml"
+              }
+            }
+          ]
+        },
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "400 мл",
+                "uz": "400 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "36–40 г",
+                "uz": "36–40 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "260 мл",
+                "uz": "260 ml"
+              }
+            }
+          ]
+        },
+        {
+          "size": {
+            "ru": "500 мл",
+            "uz": "500 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "500 мл",
+                "uz": "500 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "54–60 г",
+                "uz": "54–60 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "360 мл",
+                "uz": "360 ml"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Приготовить классический эспрессо и перелить в стакан.",
+          "Форсункой эспрессо-машины взбить молоко, нагреть до 65–70°C. Пена 1,5–2 см.",
+          "Влить взбитое молоко в стакан."
+        ],
+        "uz": [
+          "Klassik espressoni tayyorlab stakanga quyish.",
+          "Espresso mashinasi forsunkasi bilan sutni ko‘pirtirib 65–70°C gacha isitish. Ko‘pik 1,5–2 sm.",
+          "Ko‘pirtirilgan sutni stakanga quyish."
+        ]
+      },
+      "notes": {
+        "ru": [
+          "Можно готовить на альтернативном молоке, вместо коровьего."
+        ],
+        "uz": [
+          "Sigir suti o‘rniga alternativ sutda tayyorlash mumkin."
+        ]
+      }
+    },
+    {
+      "id": "latte",
+      "name": {
+        "ru": "Латте",
+        "uz": "Latte"
+      },
+      "category": {
+        "ru": "Кофе горячий",
+        "uz": "Issiq qahva"
+      },
+      "glass": {
+        "ru": "Стакан 200/300/400/500 мл",
+        "uz": "Stakan 200/300/400/500 ml"
+      },
+      "volumes": {
+        "ru": [
+          "200 мл",
+          "300 мл",
+          "400 мл",
+          "500 мл"
+        ],
+        "uz": [
+          "200 ml",
+          "300 ml",
+          "400 ml",
+          "500 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "200 мл",
+            "uz": "200 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "200 мл",
+                "uz": "200 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "20–21 г",
+                "uz": "20–21 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "150 мл",
+                "uz": "150 ml"
+              }
+            }
+          ]
+        },
+        {
+          "size": {
+            "ru": "300 мл",
+            "uz": "300 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "300 мл",
+                "uz": "300 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "20–21 г",
+                "uz": "20–21 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "200 мл",
+                "uz": "200 ml"
+              }
+            }
+          ]
+        },
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "400 мл",
+                "uz": "400 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "36–40 г",
+                "uz": "36–40 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "280 мл",
+                "uz": "280 ml"
+              }
+            }
+          ]
+        },
+        {
+          "size": {
+            "ru": "500 мл",
+            "uz": "500 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "500 мл",
+                "uz": "500 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "36–40 г",
+                "uz": "36–40 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "380 мл",
+                "uz": "380 ml"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Форсункой эспрессо-машины взбить молоко, нагреть до 65–70°C. Пена 1–1,5 см.",
+          "Перелить взбитое молоко в стакан.",
+          "Приготовить классический эспрессо.",
+          "Влить эспрессо."
+        ],
+        "uz": [
+          "Espresso mashinasi forsunkasi bilan sutni ko‘pirtirib 65–70°C gacha isitish. Ko‘pik 1–1,5 sm.",
+          "Ko‘pirtirilgan sutni stakanga quyish.",
+          "Klassik espresso tayyorlash.",
+          "Espressoni quyish."
+        ]
+      },
+      "notes": {
+        "ru": [
+          "Можно готовить на альтернативном молоке, вместо коровьего."
+        ],
+        "uz": [
+          "Sigir suti o‘rniga alternativ sutda tayyorlash mumkin."
+        ]
+      }
+    },
+    {
+      "id": "flat-white",
+      "name": {
+        "ru": "Флэт Уайт",
+        "uz": "Flat White"
+      },
+      "category": {
+        "ru": "Кофе горячий",
+        "uz": "Issiq qahva"
+      },
+      "glass": {
+        "ru": "Стакан 200 мл",
+        "uz": "Stakan 200 ml"
+      },
+      "volumes": {
+        "ru": [
+          "200 мл"
+        ],
+        "uz": [
+          "200 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "200 мл",
+            "uz": "200 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "200 мл",
+                "uz": "200 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "36–40 г",
+                "uz": "36–40 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "130 мл",
+                "uz": "130 ml"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Приготовить классический эспрессо в стакан.",
+          "Форсункой эспрессо-машины взбить молоко, нагреть до 65–70°C. Пена < 1 см.",
+          "Влить взбитое молоко в стакан."
+        ],
+        "uz": [
+          "Klassik espressoni stakanda tayyorlash.",
+          "Espresso mashinasi forsunkasi bilan sutni ko‘pirtirib 65–70°C gacha isitish. Ko‘pik 1 sm dan kam.",
+          "Ko‘pirtirilgan sutni stakanga quyish."
+        ]
+      },
+      "notes": {
+        "ru": [
+          "Можно готовить на альтернативном молоке, вместо коровьего."
+        ],
+        "uz": [
+          "Sigir suti o‘rniga alternativ sutda tayyorlash mumkin."
+        ]
+      }
+    },
+    {
+      "id": "raf",
+      "name": {
+        "ru": "Раф-кофе",
+        "uz": "Raf qahva"
+      },
+      "category": {
+        "ru": "Авторские",
+        "uz": "Mualliflik ichimliklar"
+      },
+      "glass": {
+        "ru": "Стакан 400 мл",
+        "uz": "Stakan 400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "400 мл"
+        ],
+        "uz": [
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "400 мл",
+                "uz": "400 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "20–21 г",
+                "uz": "20–21 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Сливки 11%",
+                "uz": "Qaymoq 11%"
+              },
+              "amount": {
+                "ru": "200 мл",
+                "uz": "200 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Ванильный сироп",
+                "uz": "Vanilli sirop"
+              },
+              "amount": {
+                "ru": "20 мл",
+                "uz": "20 ml"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Приготовить классический эспрессо в питчер.",
+          "В питчер 600 мл добавить сливки, эспрессо, сироп и взбить под форсункой эспрессо-машины, нагреть до 65–70°C.",
+          "Перелить в стакан."
+        ],
+        "uz": [
+          "Klassik espressoni pitcherda tayyorlash.",
+          "600 ml pitcherga qaymoq, espresso va sirop qo‘shib, espresso mashinasi forsunkasi ostida ko‘pirtirish va 65–70°C gacha isitish.",
+          "Stakanga quyish."
+        ]
+      },
+      "notes": {
+        "ru": [
+          "Можно готовить на альтернативном молоке, вместо коровьего."
+        ],
+        "uz": [
+          "Sigir suti o‘rniga alternativ sutda tayyorlash mumkin."
+        ]
+      }
+    },
+    {
+      "id": "caffelito-coffee",
+      "name": {
+        "ru": "Caffelito coffee",
+        "uz": "Caffelito coffee"
+      },
+      "category": {
+        "ru": "Авторские",
+        "uz": "Mualliflik ichimliklar"
+      },
+      "glass": {
+        "ru": "Стакан 300/400/500 мл",
+        "uz": "Stakan 300/400/500 ml"
+      },
+      "volumes": {
+        "ru": [
+          "300 мл",
+          "400 мл",
+          "500 мл"
+        ],
+        "uz": [
+          "300 ml",
+          "400 ml",
+          "500 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "300 мл",
+            "uz": "300 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "300 мл",
+                "uz": "300 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "36–40 г",
+                "uz": "36–40 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Какао-порошок",
+                "uz": "Kakao kukuni"
+              },
+              "amount": {
+                "ru": "15 г",
+                "uz": "15 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко для горшоколада",
+                "uz": "Issiq shokolad uchun sut"
+              },
+              "amount": {
+                "ru": "50 мл",
+                "uz": "50 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "130 мл",
+                "uz": "130 ml"
+              }
+            }
+          ]
+        },
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "400 мл",
+                "uz": "400 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "36–40 г",
+                "uz": "36–40 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Какао-порошок",
+                "uz": "Kakao kukuni"
+              },
+              "amount": {
+                "ru": "20 г",
+                "uz": "20 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко для горшоколада",
+                "uz": "Issiq shokolad uchun sut"
+              },
+              "amount": {
+                "ru": "60 мл",
+                "uz": "60 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "210 мл",
+                "uz": "210 ml"
+              }
+            }
+          ]
+        },
+        {
+          "size": {
+            "ru": "500 мл",
+            "uz": "500 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "500 мл",
+                "uz": "500 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "36–40 г",
+                "uz": "36–40 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Какао-порошок",
+                "uz": "Kakao kukuni"
+              },
+              "amount": {
+                "ru": "25 г",
+                "uz": "25 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко для горшоколада",
+                "uz": "Issiq shokolad uchun sut"
+              },
+              "amount": {
+                "ru": "70 мл",
+                "uz": "70 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "300 мл",
+                "uz": "300 ml"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Приготовить горячий шоколад и перелить в стакан.",
+          "Приготовить классический эспрессо.",
+          "Влить эспрессо поверх горячего шоколада.",
+          "Форсункой эспрессо-машины взбить молоко, нагреть до 65–70°C. Пена 1,5–2 см.",
+          "Влить взбитое молоко в стакан."
+        ],
+        "uz": [
+          "Issiq shokolad tayyorlab stakanga quyish.",
+          "Klassik espresso tayyorlash.",
+          "Espressoni issiq shokolad ustidan quyish.",
+          "Espresso mashinasi forsunkasi bilan sutni ko‘pirtirib 65–70°C gacha isitish. Ko‘pik 1,5–2 sm.",
+          "Ko‘pirtirilgan sutni stakanga quyish."
+        ]
+      },
+      "notes": {
+        "ru": [
+          "Можно готовить на альтернативном молоке, вместо коровьего."
+        ],
+        "uz": [
+          "Sigir suti o‘rniga alternativ sutda tayyorlash mumkin."
+        ]
+      }
+    },
+    {
+      "id": "ice-americano",
+      "name": {
+        "ru": "Айс американо",
+        "uz": "Ays amerikano"
+      },
+      "category": {
+        "ru": "Кофе холодный",
+        "uz": "Sovuq qahva"
+      },
+      "glass": {
+        "ru": "Стакан холод 300/400 мл",
+        "uz": "Sovuq stakan 300/400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "300 мл",
+          "400 мл"
+        ],
+        "uz": [
+          "300 ml",
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "300 мл",
+            "uz": "300 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "300 мл",
+                "uz": "300 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "150 г",
+                "uz": "150 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "36–40 г",
+                "uz": "36–40 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Горячая вода",
+                "uz": "Issiq suv"
+              },
+              "amount": {
+                "ru": "50 мл",
+                "uz": "50 ml"
+              }
+            }
+          ]
+        },
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "400 мл",
+                "uz": "400 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "200 г",
+                "uz": "200 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "36–40 г",
+                "uz": "36–40 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Горячая вода",
+                "uz": "Issiq suv"
+              },
+              "amount": {
+                "ru": "80 мл",
+                "uz": "80 ml"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Приготовить классический эспрессо в питчер.",
+          "В шейкер добавить лёд, эспрессо, влить воду и интенсивно взболтать.",
+          "Перелить в стакан."
+        ],
+        "uz": [
+          "Klassik espressoni pitcherda tayyorlash.",
+          "Sheykerga muz va espresso qo‘shib, suv quyish va kuchli chayqatish.",
+          "Stakanga quyish."
+        ]
+      },
+      "notes": {
+        "ru": [],
+        "uz": []
+      }
+    },
+    {
+      "id": "ice-cappuccino",
+      "name": {
+        "ru": "Айс капучино",
+        "uz": "Ays kapuchino"
+      },
+      "category": {
+        "ru": "Кофе холодный",
+        "uz": "Sovuq qahva"
+      },
+      "glass": {
+        "ru": "Стакан холод 300/400 мл",
+        "uz": "Sovuq stakan 300/400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "300 мл",
+          "400 мл"
+        ],
+        "uz": [
+          "300 ml",
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "300 мл",
+            "uz": "300 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "300 мл",
+                "uz": "300 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "100 г",
+                "uz": "100 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "100 мл",
+                "uz": "100 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "36–40 г",
+                "uz": "36–40 g"
+              }
+            }
+          ]
+        },
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "400 мл",
+                "uz": "400 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "150 г",
+                "uz": "150 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "150 мл",
+                "uz": "150 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "36–40 г",
+                "uz": "36–40 g"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Приготовить классический эспрессо в питчер.",
+          "В шейкер добавить лёд, молоко и интенсивно взболтать.",
+          "Перелить содержимое шейкера в стакан.",
+          "Влить эспрессо."
+        ],
+        "uz": [
+          "Klassik espressoni pitcherda tayyorlash.",
+          "Sheykerga muz va sut qo‘shib, kuchli chayqatish.",
+          "Sheyker ichidagini stakanga quyish.",
+          "Espressoni quyish."
+        ]
+      },
+      "notes": {
+        "ru": [],
+        "uz": []
+      }
+    },
+    {
+      "id": "ice-latte",
+      "name": {
+        "ru": "Айс латте",
+        "uz": "Ays latte"
+      },
+      "category": {
+        "ru": "Кофе холодный",
+        "uz": "Sovuq qahva"
+      },
+      "glass": {
+        "ru": "Стакан холод 300/400 мл",
+        "uz": "Sovuq stakan 300/400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "300 мл",
+          "400 мл"
+        ],
+        "uz": [
+          "300 ml",
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "300 мл",
+            "uz": "300 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "300 мл",
+                "uz": "300 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "100 г",
+                "uz": "100 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "180 мл",
+                "uz": "180 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "20–21 г",
+                "uz": "20–21 g"
+              }
+            }
+          ]
+        },
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "400 мл",
+                "uz": "400 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "200 г",
+                "uz": "200 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "200 мл",
+                "uz": "200 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "36–40 г",
+                "uz": "36–40 g"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Приготовить классический эспрессо в питчер.",
+          "В стакан добавить лёд и молоко.",
+          "Влить эспрессо сверху."
+        ],
+        "uz": [
+          "Klassik espressoni pitcherda tayyorlash.",
+          "Stakanga muz va sut qo‘shish.",
+          "Espressoni ustidan quyish."
+        ]
+      },
+      "notes": {
+        "ru": [
+          "Можно готовить на альтернативном молоке, вместо коровьего."
+        ],
+        "uz": [
+          "Sigir suti o‘rniga alternativ sutda tayyorlash mumkin."
+        ]
+      }
+    },
+    {
+      "id": "ice-raf",
+      "name": {
+        "ru": "Айс раф",
+        "uz": "Ays raf"
+      },
+      "category": {
+        "ru": "Кофе холодный",
+        "uz": "Sovuq qahva"
+      },
+      "glass": {
+        "ru": "Стакан холод 400 мл",
+        "uz": "Sovuq stakan 400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "400 мл"
+        ],
+        "uz": [
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "400 мл",
+                "uz": "400 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "20–21 г",
+                "uz": "20–21 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Сироп ванильный",
+                "uz": "Vanilli sirop"
+              },
+              "amount": {
+                "ru": "50 мл",
+                "uz": "50 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Сливки 11%",
+                "uz": "Qaymoq 11%"
+              },
+              "amount": {
+                "ru": "150 мл",
+                "uz": "150 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "150 г",
+                "uz": "150 g"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Приготовить эспрессо в питчер.",
+          "Все ингредиенты смешать в блендере.",
+          "Перелить в стакан."
+        ],
+        "uz": [
+          "Espressoni pitcherda tayyorlash.",
+          "Barcha ingredientlarni blenderda aralashtirish.",
+          "Stakanga quyish."
+        ]
+      },
+      "notes": {
+        "ru": [
+          "Можно готовить на альтернативном молоке, вместо коровьего."
+        ],
+        "uz": [
+          "Sigir suti o‘rniga alternativ sutda tayyorlash mumkin."
+        ]
+      }
+    },
+    {
+      "id": "espresso-tonic",
+      "name": {
+        "ru": "Эспрессо тоник",
+        "uz": "Espresso tonik"
+      },
+      "category": {
+        "ru": "Кофе холодный",
+        "uz": "Sovuq qahva"
+      },
+      "glass": {
+        "ru": "Стакан холод 400 мл",
+        "uz": "Sovuq stakan 400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "400 мл"
+        ],
+        "uz": [
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "400 мл",
+                "uz": "400 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "150 г",
+                "uz": "150 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Швепс Индиан Тоник",
+                "uz": "Schweppes Indian Tonic"
+              },
+              "amount": {
+                "ru": "200 мл",
+                "uz": "200 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "36–40 г",
+                "uz": "36–40 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лимон",
+                "uz": "Limon"
+              },
+              "amount": {
+                "ru": "20 г",
+                "uz": "20 g"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Добавить лёд и тоник в стакан.",
+          "Приготовить классический эспрессо и влить в стакан.",
+          "Украсить лимоном, закрыть крышкой и отдать гостю с трубочкой на выбор гостя."
+        ],
+        "uz": [
+          "Stakanga muz va tonik qo‘shish.",
+          "Klassik espresso tayyorlab stakanga quyish.",
+          "Limon bilan bezash, qopqog‘ini yopish va mehmonga tanlov bo‘yicha naycha bilan berish."
+        ]
+      },
+      "notes": {
+        "ru": [],
+        "uz": []
+      }
+    },
+    {
+      "id": "bumble",
+      "name": {
+        "ru": "Бамбл",
+        "uz": "Bambl"
+      },
+      "category": {
+        "ru": "Кофе холодный",
+        "uz": "Sovuq qahva"
+      },
+      "glass": {
+        "ru": "Стакан холод 400 мл",
+        "uz": "Sovuq stakan 400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "400 мл"
+        ],
+        "uz": [
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "400 мл",
+                "uz": "400 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Карамельный сироп",
+                "uz": "Karamel siropi"
+              },
+              "amount": {
+                "ru": "20 мл",
+                "uz": "20 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "150 г",
+                "uz": "150 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Сок апельсиновый",
+                "uz": "Apelsin sharbati"
+              },
+              "amount": {
+                "ru": "200 мл",
+                "uz": "200 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "36–40 г",
+                "uz": "36–40 g"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Приготовить классический эспрессо в питчер.",
+          "В стакан добавить сироп, лёд, сок.",
+          "Влить эспрессо."
+        ],
+        "uz": [
+          "Klassik espressoni pitcherda tayyorlash.",
+          "Stakanga sirop, muz va sharbat qo‘shish.",
+          "Espressoni quyish."
+        ]
+      },
+      "notes": {
+        "ru": [],
+        "uz": []
+      }
+    },
+    {
+      "id": "frappeto",
+      "name": {
+        "ru": "Фраппето",
+        "uz": "Frappeto"
+      },
+      "category": {
+        "ru": "Авторские",
+        "uz": "Mualliflik ichimliklar"
+      },
+      "glass": {
+        "ru": "Стакан холод 300/400 мл",
+        "uz": "Sovuq stakan 300/400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "300 мл",
+          "400 мл"
+        ],
+        "uz": [
+          "300 ml",
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "300 мл",
+            "uz": "300 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "300 мл",
+                "uz": "300 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "20–21 г",
+                "uz": "20–21 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "100 мл",
+                "uz": "100 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Сироп в ассортименте",
+                "uz": "Assortimentdagi sirop"
+              },
+              "amount": {
+                "ru": "30 мл",
+                "uz": "30 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "100 г",
+                "uz": "100 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Мороженое пломбир",
+                "uz": "Plombir muzqaymoq"
+              },
+              "amount": {
+                "ru": "50 г",
+                "uz": "50 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Топпинг шоколадный",
+                "uz": "Shokoladli topping"
+              },
+              "amount": {
+                "ru": "10 г",
+                "uz": "10 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Взбитые сливки",
+                "uz": "Ko‘pirtirilgan qaymoq"
+              },
+              "amount": {
+                "ru": "30 г",
+                "uz": "30 g"
+              }
+            }
+          ]
+        },
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "400 мл",
+                "uz": "400 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "36–40 г",
+                "uz": "36–40 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "150 мл",
+                "uz": "150 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Сироп в ассортименте",
+                "uz": "Assortimentdagi sirop"
+              },
+              "amount": {
+                "ru": "40 мл",
+                "uz": "40 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "100 г",
+                "uz": "100 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Мороженое пломбир",
+                "uz": "Plombir muzqaymoq"
+              },
+              "amount": {
+                "ru": "100 г",
+                "uz": "100 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Топпинг шоколадный",
+                "uz": "Shokoladli topping"
+              },
+              "amount": {
+                "ru": "10 г",
+                "uz": "10 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Взбитые сливки",
+                "uz": "Ko‘pirtirilgan qaymoq"
+              },
+              "amount": {
+                "ru": "30 г",
+                "uz": "30 g"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Приготовить классический эспрессо в питчер.",
+          "Все ингредиенты смешать в блендере.",
+          "Украсить стакан шоколадным топпингом.",
+          "Перелить содержимое блендера в стакан и сверху украсить взбитыми сливками."
+        ],
+        "uz": [
+          "Klassik espressoni pitcherda tayyorlash.",
+          "Barcha ingredientlarni blenderda aralashtirish.",
+          "Stakanni shokoladli topping bilan bezash.",
+          "Blenderdagi ichimlikni stakanga quyib, ustidan ko‘pirtirilgan qaymoq bilan bezash."
+        ]
+      },
+      "notes": {
+        "ru": [],
+        "uz": []
+      }
+    },
+    {
+      "id": "milkshake",
+      "name": {
+        "ru": "Милк-шейк",
+        "uz": "Milk-sheyk"
+      },
+      "category": {
+        "ru": "Авторские",
+        "uz": "Mualliflik ichimliklar"
+      },
+      "glass": {
+        "ru": "Стакан холод 300/400 мл",
+        "uz": "Sovuq stakan 300/400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "300 мл",
+          "400 мл"
+        ],
+        "uz": [
+          "300 ml",
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "300 мл",
+            "uz": "300 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "300 мл",
+                "uz": "300 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "150 мл",
+                "uz": "150 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Сироп в ассортименте",
+                "uz": "Assortimentdagi sirop"
+              },
+              "amount": {
+                "ru": "20 мл",
+                "uz": "20 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Мороженое пломбир",
+                "uz": "Plombir muzqaymoq"
+              },
+              "amount": {
+                "ru": "100 г",
+                "uz": "100 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Взбитые сливки",
+                "uz": "Ko‘pirtirilgan qaymoq"
+              },
+              "amount": {
+                "ru": "30 г",
+                "uz": "30 g"
+              }
+            }
+          ]
+        },
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "400 мл",
+                "uz": "400 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "200 мл",
+                "uz": "200 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Сироп в ассортименте",
+                "uz": "Assortimentdagi sirop"
+              },
+              "amount": {
+                "ru": "30 мл",
+                "uz": "30 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Мороженое пломбир",
+                "uz": "Plombir muzqaymoq"
+              },
+              "amount": {
+                "ru": "150 г",
+                "uz": "150 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Взбитые сливки",
+                "uz": "Ko‘pirtirilgan qaymoq"
+              },
+              "amount": {
+                "ru": "30 г",
+                "uz": "30 g"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Все ингредиенты смешать в блендере.",
+          "Перелить в стакан и сверху украсить взбитыми сливками."
+        ],
+        "uz": [
+          "Barcha ingredientlarni blenderda aralashtirish.",
+          "Stakanga quyib, ustidan ko‘pirtirilgan qaymoq bilan bezash."
+        ]
+      },
+      "notes": {
+        "ru": [],
+        "uz": []
+      }
+    },
+    {
+      "id": "cocoa",
+      "name": {
+        "ru": "Какао",
+        "uz": "Kakao"
+      },
+      "category": {
+        "ru": "Авторские",
+        "uz": "Mualliflik ichimliklar"
+      },
+      "glass": {
+        "ru": "Стакан 200/300/400/500 мл",
+        "uz": "Stakan 200/300/400/500 ml"
+      },
+      "volumes": {
+        "ru": [
+          "200 мл",
+          "300 мл",
+          "400 мл",
+          "500 мл"
+        ],
+        "uz": [
+          "200 ml",
+          "300 ml",
+          "400 ml",
+          "500 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "200 мл",
+            "uz": "200 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "200 мл",
+                "uz": "200 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Какао-порошок",
+                "uz": "Kakao kukuni"
+              },
+              "amount": {
+                "ru": "15 г",
+                "uz": "15 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "150 мл",
+                "uz": "150 ml"
+              }
+            }
+          ]
+        },
+        {
+          "size": {
+            "ru": "300 мл",
+            "uz": "300 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "300 мл",
+                "uz": "300 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Какао-порошок",
+                "uz": "Kakao kukuni"
+              },
+              "amount": {
+                "ru": "20 г",
+                "uz": "20 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "250 мл",
+                "uz": "250 ml"
+              }
+            }
+          ]
+        },
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "400 мл",
+                "uz": "400 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Какао-порошок",
+                "uz": "Kakao kukuni"
+              },
+              "amount": {
+                "ru": "25 г",
+                "uz": "25 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "320 мл",
+                "uz": "320 ml"
+              }
+            }
+          ]
+        },
+        {
+          "size": {
+            "ru": "500 мл",
+            "uz": "500 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "500 мл",
+                "uz": "500 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Какао-порошок",
+                "uz": "Kakao kukuni"
+              },
+              "amount": {
+                "ru": "30 г",
+                "uz": "30 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "420 мл",
+                "uz": "420 ml"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "В питчер добавить молоко и какао-порошок.",
+          "Форсункой эспрессо-машины взбить молоко с какао, нагреть до 70°C. Пена 1,5–2 см.",
+          "Перелить в стакан."
+        ],
+        "uz": [
+          "Pitcherga sut va kakao kukuni qo‘shish.",
+          "Espresso mashinasi forsunkasi bilan kakao aralashtirilgan sutni ko‘pirtirib 70°C gacha isitish. Ko‘pik 1,5–2 sm.",
+          "Stakanga quyish."
+        ]
+      },
+      "notes": {
+        "ru": [
+          "Можно готовить на альтернативном молоке, вместо коровьего."
+        ],
+        "uz": [
+          "Sigir suti o‘rniga alternativ sutda tayyorlash mumkin."
+        ]
+      }
+    },
+    {
+      "id": "hot-chocolate",
+      "name": {
+        "ru": "Горячий шоколад",
+        "uz": "Issiq shokolad"
+      },
+      "category": {
+        "ru": "Авторские",
+        "uz": "Mualliflik ichimliklar"
+      },
+      "glass": {
+        "ru": "Стакан 100/200 мл",
+        "uz": "Stakan 100/200 ml"
+      },
+      "volumes": {
+        "ru": [
+          "100 мл",
+          "200 мл"
+        ],
+        "uz": [
+          "100 ml",
+          "200 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "100 мл",
+            "uz": "100 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "100 мл",
+                "uz": "100 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Какао-порошок",
+                "uz": "Kakao kukuni"
+              },
+              "amount": {
+                "ru": "20 г",
+                "uz": "20 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "70 мл",
+                "uz": "70 ml"
+              }
+            }
+          ]
+        },
+        {
+          "size": {
+            "ru": "200 мл",
+            "uz": "200 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "200 мл",
+                "uz": "200 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Какао-порошок",
+                "uz": "Kakao kukuni"
+              },
+              "amount": {
+                "ru": "40 г",
+                "uz": "40 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "140 мл",
+                "uz": "140 ml"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "В питчер добавить молоко и какао-порошок.",
+          "Нагреть под форсункой до необходимой консистенции без пены.",
+          "Перелить в стакан."
+        ],
+        "uz": [
+          "Pitcherga sut va kakao kukuni qo‘shish.",
+          "Forsunka ostida kerakli konsistensiyagacha, ko‘piksiz isitish.",
+          "Stakanga quyish."
+        ]
+      },
+      "notes": {
+        "ru": [
+          "Можно готовить на альтернативном молоке, вместо коровьего."
+        ],
+        "uz": [
+          "Sigir suti o‘rniga alternativ sutda tayyorlash mumkin."
+        ]
+      }
+    },
+    {
+      "id": "batch-brew",
+      "name": {
+        "ru": "Batch Brew",
+        "uz": "Batch Brew"
+      },
+      "category": {
+        "ru": "Дрип / Батч",
+        "uz": "Drip / Batch"
+      },
+      "glass": {
+        "ru": "Стакан 200/300/400/500 мл",
+        "uz": "Stakan 200/300/400/500 ml"
+      },
+      "volumes": {
+        "ru": [
+          "2000 мл"
+        ],
+        "uz": [
+          "2000 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "2000 мл",
+            "uz": "2000 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "2000 мл",
+                "uz": "2000 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молотый кофе",
+                "uz": "Maydalangan qahva"
+              },
+              "amount": {
+                "ru": "120 г",
+                "uz": "120 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Фильтрованная вода",
+                "uz": "Filtrlangan suv"
+              },
+              "amount": {
+                "ru": "2000 мл",
+                "uz": "2000 ml"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "В чашу капельной кофеварки вставить бумажный фильтр, фильтр смочить холодной водой.",
+          "Добавить 120 грамм молотого кофе и вставить под распылитель кофеварки.",
+          "В отсек для воды капельной кофеварки влить 2 литра фильтрованной воды.",
+          "Открыть термос и подставить под чашу с кофе.",
+          "Нажать на кнопку включения / заварить кофе 7–8 минут.",
+          "Выключить кофеварку, очистить чашу от отработанного кофе с бумажным фильтром и промыть под водой, распылитель протереть.",
+          "В термос вставить помпу-дозатор и закрыть.",
+          "Батч брю готов."
+        ],
+        "uz": [
+          "Tomchilatib qahva tayyorlagich kosasiga qog‘oz filtr qo‘yish va filtrni sovuq suv bilan namlash.",
+          "120 gramm maydalangan qahva qo‘shib, kofevarka purkagichi ostiga qo‘yish.",
+          "Tomchilatib qahva tayyorlagichning suv bo‘limiga 2 litr filtrlangan suv quyish.",
+          "Termosni ochib, qahva kosasi ostiga qo‘yish.",
+          "Yoqish tugmasini bosish / qahvani 7–8 daqiqa damlash.",
+          "Kofevarkani o‘chirish, kosani ishlatilgan qahva va qog‘oz filtrdan tozalab suvda yuvish, purkagichni artish.",
+          "Termosga pompa-dozatorni qo‘yib yopish.",
+          "Batch brew tayyor."
+        ]
+      },
+      "notes": {
+        "ru": [
+          "Можно готовить на альтернативном молоке, вместо коровьего."
+        ],
+        "uz": [
+          "Sigir suti o‘rniga alternativ sutda tayyorlash mumkin."
+        ]
+      }
+    },
+    {
+      "id": "berry-tea",
+      "name": {
+        "ru": "Чай ягодный",
+        "uz": "Rezavorli choy"
+      },
+      "category": {
+        "ru": "Чай",
+        "uz": "Choy"
+      },
+      "glass": {
+        "ru": "Стакан 400 мл",
+        "uz": "Stakan 400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "400 мл"
+        ],
+        "uz": [
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "400 мл",
+                "uz": "400 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Пюре ягодное",
+                "uz": "Rezavor pyuresi"
+              },
+              "amount": {
+                "ru": "60 г",
+                "uz": "60 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лимон",
+                "uz": "Limon"
+              },
+              "amount": {
+                "ru": "20 г",
+                "uz": "20 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Мёд",
+                "uz": "Asal"
+              },
+              "amount": {
+                "ru": "20 г",
+                "uz": "20 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Горячая вода",
+                "uz": "Issiq suv"
+              },
+              "amount": {
+                "ru": "300 мл",
+                "uz": "300 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Мята",
+                "uz": "Yalpiz"
+              },
+              "amount": {
+                "ru": "1 г",
+                "uz": "1 g"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "В питчер 600 мл добавить все ингредиенты кроме мяты.",
+          "Влить горячую воду из бойлера.",
+          "Размешать содержимое питчера барной ложкой.",
+          "Перелить в стакан 400 мл и добавить мяту."
+        ],
+        "uz": [
+          "600 ml pitcherga yalpizdan tashqari barcha ingredientlarni qo‘shish.",
+          "Boylerdan issiq suv quyish.",
+          "Pitcher ichidagini bar qoshiq bilan aralashtirish.",
+          "400 ml stakanga quyib, yalpiz qo‘shish."
+        ]
+      },
+      "notes": {
+        "ru": [],
+        "uz": []
+      }
+    },
+    {
+      "id": "ginger-tea",
+      "name": {
+        "ru": "Чай с имбирём",
+        "uz": "Zanjabilli choy"
+      },
+      "category": {
+        "ru": "Чай",
+        "uz": "Choy"
+      },
+      "glass": {
+        "ru": "Стакан 400 мл",
+        "uz": "Stakan 400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "400 мл"
+        ],
+        "uz": [
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "400 мл",
+                "uz": "400 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Пюре имбирное",
+                "uz": "Zanjabil pyuresi"
+              },
+              "amount": {
+                "ru": "60 г",
+                "uz": "60 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лимон",
+                "uz": "Limon"
+              },
+              "amount": {
+                "ru": "20 г",
+                "uz": "20 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Мёд",
+                "uz": "Asal"
+              },
+              "amount": {
+                "ru": "20 г",
+                "uz": "20 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Горячая вода",
+                "uz": "Issiq suv"
+              },
+              "amount": {
+                "ru": "300 мл",
+                "uz": "300 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Мята",
+                "uz": "Yalpiz"
+              },
+              "amount": {
+                "ru": "1 г",
+                "uz": "1 g"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "В питчер 600 мл добавить все ингредиенты кроме мяты.",
+          "Влить горячую воду из бойлера.",
+          "Размешать содержимое питчера барной ложкой.",
+          "Перелить в стакан 400 мл и добавить мяту."
+        ],
+        "uz": [
+          "600 ml pitcherga yalpizdan tashqari barcha ingredientlarni qo‘shish.",
+          "Boylerdan issiq suv quyish.",
+          "Pitcher ichidagini bar qoshiq bilan aralashtirish.",
+          "400 ml stakanga quyib, yalpiz qo‘shish."
+        ]
+      },
+      "notes": {
+        "ru": [],
+        "uz": []
+      }
+    },
+    {
+      "id": "matcha-iced-latte",
+      "name": {
+        "ru": "Айс латте матча",
+        "uz": "Ays latte matcha"
+      },
+      "category": {
+        "ru": "Матча",
+        "uz": "Matcha"
+      },
+      "glass": {
+        "ru": "Стакан холод 400 мл",
+        "uz": "Sovuq stakan 400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "400 мл"
+        ],
+        "uz": [
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "400 мл",
+                "uz": "400 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Матча",
+                "uz": "Matcha"
+              },
+              "amount": {
+                "ru": "2 г",
+                "uz": "2 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Горячая вода",
+                "uz": "Issiq suv"
+              },
+              "amount": {
+                "ru": "30 мл",
+                "uz": "30 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "200 мл",
+                "uz": "200 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "200 г",
+                "uz": "200 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Сахарный сироп",
+                "uz": "Shakar siropi"
+              },
+              "amount": {
+                "ru": "20 мл",
+                "uz": "20 ml"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "В питчер 150 мл насыпать порошок матча.",
+          "Влить горячую воду и тщательно перемешать ложкой.",
+          "В стакан поместить лёд, влить молоко и сироп.",
+          "Сверху влить заготовку матчи."
+        ],
+        "uz": [
+          "150 ml pitcherga matcha kukunini solish.",
+          "Issiq suv quyib, qoshiq bilan yaxshilab aralashtirish.",
+          "Stakanga muz solib, sut va sirop quyish.",
+          "Ustidan matcha yarim tayyorini quyish."
+        ]
+      },
+      "notes": {
+        "ru": [
+          "Можно готовить на альтернативном молоке, вместо коровьего."
+        ],
+        "uz": [
+          "Sigir suti o‘rniga alternativ sutda tayyorlash mumkin."
+        ]
+      }
+    },
+    {
+      "id": "matcha",
+      "name": {
+        "ru": "Матча",
+        "uz": "Matcha"
+      },
+      "category": {
+        "ru": "Матча",
+        "uz": "Matcha"
+      },
+      "glass": {
+        "ru": "Стакан 400 мл",
+        "uz": "Stakan 400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "400 мл"
+        ],
+        "uz": [
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "400 мл",
+                "uz": "400 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Матча",
+                "uz": "Matcha"
+              },
+              "amount": {
+                "ru": "2 г",
+                "uz": "2 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Горячая вода",
+                "uz": "Issiq suv"
+              },
+              "amount": {
+                "ru": "30 мл",
+                "uz": "30 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко",
+                "uz": "Sut"
+              },
+              "amount": {
+                "ru": "280 мл",
+                "uz": "280 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Сахарный сироп",
+                "uz": "Shakar siropi"
+              },
+              "amount": {
+                "ru": "20 мл",
+                "uz": "20 ml"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "В стакан 400 мл насыпать матчу и влить горячую воду.",
+          "Тщательно перемешать барной ложкой и добавить сироп.",
+          "Форсункой эспрессо-машины взбить молоко, нагреть до 65–70°C. Пена 1,5–2 см.",
+          "Влить взбитое молоко в стакан."
+        ],
+        "uz": [
+          "400 ml stakanga matcha solib, issiq suv quyish.",
+          "Bar qoshiq bilan yaxshilab aralashtirib, sirop qo‘shish.",
+          "Espresso mashinasi forsunkasi bilan sutni ko‘pirtirib 65–70°C gacha isitish. Ko‘pik 1,5–2 sm.",
+          "Ko‘pirtirilgan sutni stakanga quyish."
+        ]
+      },
+      "notes": {
+        "ru": [
+          "Можно готовить на альтернативном молоке, вместо коровьего."
+        ],
+        "uz": [
+          "Sigir suti o‘rniga alternativ sutda tayyorlash mumkin."
+        ]
+      }
+    },
+    {
+      "id": "branded-tea",
+      "name": {
+        "ru": "Чай брендированный",
+        "uz": "Brendlangan choy"
+      },
+      "category": {
+        "ru": "Чай",
+        "uz": "Choy"
+      },
+      "glass": {
+        "ru": "Стакан 400 мл",
+        "uz": "Stakan 400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "400 мл"
+        ],
+        "uz": [
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "400 мл",
+                "uz": "400 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Чай пакетированный",
+                "uz": "Paketli choy"
+              },
+              "amount": {
+                "ru": "1 шт",
+                "uz": "1 dona"
+              }
+            },
+            {
+              "name": {
+                "ru": "Горячая вода",
+                "uz": "Issiq suv"
+              },
+              "amount": {
+                "ru": "350 мл",
+                "uz": "350 ml"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "В стакан 400 мл поместить чай.",
+          "Налить горячую воду из бойлера.",
+          "Плотно закрыть крышкой так, чтобы отверстие крышки находилось с левой стороны от манжеты.",
+          "Отдать гостю, предупредив, что чай должен настояться 3–4 минуты."
+        ],
+        "uz": [
+          "400 ml stakanga choy solish.",
+          "Boylerdan issiq suv quyish.",
+          "Qopqoq teshigi manjetaning chap tomonida turadigan qilib mahkam yopish.",
+          "Choy 3–4 daqiqa damlanishi kerakligini aytib, mehmonga berish."
+        ]
+      },
+      "notes": {
+        "ru": [],
+        "uz": []
+      }
+    },
+    {
+      "id": "drip-coffee",
+      "name": {
+        "ru": "Дрип кофе",
+        "uz": "Drip qahva"
+      },
+      "category": {
+        "ru": "Дрип / Батч",
+        "uz": "Drip / Batch"
+      },
+      "glass": {
+        "ru": "Стакан 200 мл",
+        "uz": "Stakan 200 ml"
+      },
+      "volumes": {
+        "ru": [
+          "200 мл"
+        ],
+        "uz": [
+          "200 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "200 мл",
+            "uz": "200 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "200 мл",
+                "uz": "200 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Дрип кофе",
+                "uz": "Drip qahva"
+              },
+              "amount": {
+                "ru": "1 шт",
+                "uz": "1 dona"
+              }
+            },
+            {
+              "name": {
+                "ru": "Горячая вода",
+                "uz": "Issiq suv"
+              },
+              "amount": {
+                "ru": "180 мл",
+                "uz": "180 ml"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Открыть дрип пакет, закрепить на стакане 200 мл.",
+          "Греем питчер 350 мл, наливаем в него 300 мл горячей воды.",
+          "Медленно вливаем 180 мл воды через дрип 15–20 сек.",
+          "Дожидаемся, пока наполнится колба. Снять дрип пакет."
+        ],
+        "uz": [
+          "Drip paketni ochib, 200 ml stakanga mahkamlash.",
+          "350 ml pitcherni isitib, ichiga 300 ml issiq suv quyish.",
+          "Drip orqali 180 ml suvni 15–20 soniyada sekin quyish.",
+          "Kolba to‘lishini kutish. Drip paketni yechish."
+        ]
+      },
+      "notes": {
+        "ru": [],
+        "uz": []
+      }
+    },
+    {
+      "id": "ice-drip-coffee",
+      "name": {
+        "ru": "Айс дрип кофе",
+        "uz": "Ays drip qahva"
+      },
+      "category": {
+        "ru": "Дрип / Батч",
+        "uz": "Drip / Batch"
+      },
+      "glass": {
+        "ru": "Стакан 300 мл",
+        "uz": "Stakan 300 ml"
+      },
+      "volumes": {
+        "ru": [
+          "300 мл"
+        ],
+        "uz": [
+          "300 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "300 мл",
+            "uz": "300 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "300 мл",
+                "uz": "300 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Дрип кофе",
+                "uz": "Drip qahva"
+              },
+              "amount": {
+                "ru": "1 шт",
+                "uz": "1 dona"
+              }
+            },
+            {
+              "name": {
+                "ru": "Горячая вода",
+                "uz": "Issiq suv"
+              },
+              "amount": {
+                "ru": "180 мл",
+                "uz": "180 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "100 г",
+                "uz": "100 g"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Добавить лёд в стакан 300 мл.",
+          "Открыть дрип пакет, закрепить на стакане купол 300 мл.",
+          "Греем питчер 350 мл, наливаем в него 300 мл горячей воды.",
+          "Медленно вливаем 180 мл воды через дрип 15–20 сек.",
+          "Дожидаемся, пока напиток полностью сольётся. Снять дрип пакет."
+        ],
+        "uz": [
+          "300 ml stakanga muz qo‘shish.",
+          "Drip paketni ochib, 300 ml gumbazli stakanga mahkamlash.",
+          "350 ml pitcherni isitib, ichiga 300 ml issiq suv quyish.",
+          "Drip orqali 180 ml suvni 15–20 soniyada sekin quyish.",
+          "Ichimlik to‘liq oqib tushishini kutish. Drip paketni yechish."
+        ]
+      },
+      "notes": {
+        "ru": [],
+        "uz": []
+      }
+    },
+    {
+      "id": "ice-batch-brew",
+      "name": {
+        "ru": "Айс батч брю",
+        "uz": "Ays batch brew"
+      },
+      "category": {
+        "ru": "Дрип / Батч",
+        "uz": "Drip / Batch"
+      },
+      "glass": {
+        "ru": "Стакан холод 300/400 мл",
+        "uz": "Sovuq stakan 300/400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "300 мл",
+          "400 мл"
+        ],
+        "uz": [
+          "300 ml",
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "300 мл",
+            "uz": "300 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "300 мл",
+                "uz": "300 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Заготовка «Холодный батч»",
+                "uz": "«Sovuq batch» yarim tayyori"
+              },
+              "amount": {
+                "ru": "130 мл",
+                "uz": "130 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Сироп в ассортименте",
+                "uz": "Assortimentdagi sirop"
+              },
+              "amount": {
+                "ru": "5 мл",
+                "uz": "5 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "100 г",
+                "uz": "100 g"
+              }
+            }
+          ]
+        },
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "400 мл",
+                "uz": "400 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Заготовка «Холодный батч»",
+                "uz": "«Sovuq batch» yarim tayyori"
+              },
+              "amount": {
+                "ru": "260 мл",
+                "uz": "260 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Сироп в ассортименте",
+                "uz": "Assortimentdagi sirop"
+              },
+              "amount": {
+                "ru": "10 мл",
+                "uz": "10 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "150 г",
+                "uz": "150 g"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Добавить заготовку и сироп в питчер 600 мл.",
+          "Сильно взбить под форсункой, не нагревая напиток.",
+          "Добавить лёд в стакан, перелить готовый напиток."
+        ],
+        "uz": [
+          "600 ml pitcherga yarim tayyor ichimlik va sirop qo‘shish.",
+          "Ichimlikni isitmasdan, forsunkada kuchli ko‘pirtirish.",
+          "Stakanga muz qo‘shib, tayyor ichimlikni quyish."
+        ]
+      },
+      "notes": {
+        "ru": [],
+        "uz": []
+      }
+    },
+    {
+      "id": "sea-buckthorn-lemonade",
+      "name": {
+        "ru": "Лимонад облепиховый",
+        "uz": "Oblepixa limonadi"
+      },
+      "category": {
+        "ru": "Лимонады",
+        "uz": "Limonadlar"
+      },
+      "glass": {
+        "ru": "Стакан холод 400 мл",
+        "uz": "Sovuq stakan 400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "400 мл"
+        ],
+        "uz": [
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Лимон",
+                "uz": "Limon"
+              },
+              "amount": {
+                "ru": "20 г",
+                "uz": "20 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Пюре облепихи",
+                "uz": "Oblepixa pyuresi"
+              },
+              "amount": {
+                "ru": "50 мл",
+                "uz": "50 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Вода с газом",
+                "uz": "Gazli suv"
+              },
+              "amount": {
+                "ru": "200 мл",
+                "uz": "200 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Мята",
+                "uz": "Yalpiz"
+              },
+              "amount": {
+                "ru": "1 г",
+                "uz": "1 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "150 г",
+                "uz": "150 g"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Добавить в стакан лимон и размять мадлером.",
+          "Добавить мяту, лёд, пюре.",
+          "Влить воду с газом и перемешать барной ложкой."
+        ],
+        "uz": [
+          "Stakanga limon qo‘shib, madler bilan ezish.",
+          "Yalpiz, muz va pyure qo‘shish.",
+          "Gazli suv quyib, bar qoshiq bilan aralashtirish."
+        ]
+      },
+      "notes": {
+        "ru": [],
+        "uz": []
+      }
+    },
+    {
+      "id": "ginger-lemonade",
+      "name": {
+        "ru": "Лимонад имбирный",
+        "uz": "Zanjabil limonadi"
+      },
+      "category": {
+        "ru": "Лимонады",
+        "uz": "Limonadlar"
+      },
+      "glass": {
+        "ru": "Стакан холод 400 мл",
+        "uz": "Sovuq stakan 400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "400 мл"
+        ],
+        "uz": [
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Лимон",
+                "uz": "Limon"
+              },
+              "amount": {
+                "ru": "20 г",
+                "uz": "20 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Пюре имбирное",
+                "uz": "Zanjabil pyuresi"
+              },
+              "amount": {
+                "ru": "50 мл",
+                "uz": "50 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Вода с газом",
+                "uz": "Gazli suv"
+              },
+              "amount": {
+                "ru": "200 мл",
+                "uz": "200 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Мята",
+                "uz": "Yalpiz"
+              },
+              "amount": {
+                "ru": "1 г",
+                "uz": "1 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "150 г",
+                "uz": "150 g"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Добавить в стакан лимон и размять мадлером.",
+          "Добавить мяту, лёд, пюре.",
+          "Влить воду с газом и перемешать барной ложкой."
+        ],
+        "uz": [
+          "Stakanga limon qo‘shib, madler bilan ezish.",
+          "Yalpiz, muz va pyure qo‘shish.",
+          "Gazli suv quyib, bar qoshiq bilan aralashtirish."
+        ]
+      },
+      "notes": {
+        "ru": [],
+        "uz": []
+      }
+    },
+    {
+      "id": "berry-lemonade",
+      "name": {
+        "ru": "Лимонад ягодный",
+        "uz": "Rezavorli limonad"
+      },
+      "category": {
+        "ru": "Лимонады",
+        "uz": "Limonadlar"
+      },
+      "glass": {
+        "ru": "Стакан холод 400 мл",
+        "uz": "Sovuq stakan 400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "400 мл"
+        ],
+        "uz": [
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Лимон",
+                "uz": "Limon"
+              },
+              "amount": {
+                "ru": "20 г",
+                "uz": "20 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Пюре ягодное",
+                "uz": "Rezavor pyuresi"
+              },
+              "amount": {
+                "ru": "50 мл",
+                "uz": "50 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Вода с газом",
+                "uz": "Gazli suv"
+              },
+              "amount": {
+                "ru": "200 мл",
+                "uz": "200 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Мята",
+                "uz": "Yalpiz"
+              },
+              "amount": {
+                "ru": "1 г",
+                "uz": "1 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "150 г",
+                "uz": "150 g"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Добавить в стакан лимон и размять мадлером.",
+          "Добавить мяту, лёд, пюре.",
+          "Влить воду с газом и перемешать барной ложкой."
+        ],
+        "uz": [
+          "Stakanga limon qo‘shib, madler bilan ezish.",
+          "Yalpiz, muz va pyure qo‘shish.",
+          "Gazli suv quyib, bar qoshiq bilan aralashtirish."
+        ]
+      },
+      "notes": {
+        "ru": [],
+        "uz": []
+      }
+    },
+    {
+      "id": "frappeto-pomelo",
+      "name": {
+        "ru": "Фрапетто помело",
+        "uz": "Pomelo frappetto"
+      },
+      "category": {
+        "ru": "Сезонные",
+        "uz": "Mavsumiy"
+      },
+      "glass": {
+        "ru": "Стакан холод 400 мл",
+        "uz": "Sovuq stakan 400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "400 мл"
+        ],
+        "uz": [
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "36–40 г",
+                "uz": "36–40 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко 3,2%",
+                "uz": "Sut 3,2%"
+              },
+              "amount": {
+                "ru": "80 мл",
+                "uz": "80 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Джем помело красное",
+                "uz": "Qizil pomelo jemi"
+              },
+              "amount": {
+                "ru": "50 г",
+                "uz": "50 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "200 г",
+                "uz": "200 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Взбитые сливки",
+                "uz": "Ko‘pirtirilgan qaymoq"
+              },
+              "amount": {
+                "ru": "30 г",
+                "uz": "30 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Шоколадный топпинг",
+                "uz": "Shokoladli topping"
+              },
+              "amount": {
+                "ru": "10 г",
+                "uz": "10 g"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Приготовить классический эспрессо в питчер.",
+          "Все ингредиенты смешать в блендере.",
+          "Украсить стакан шоколадным топпингом.",
+          "Перелить всё в стакан и украсить взбитыми сливками."
+        ],
+        "uz": [
+          "Klassik espressoni pitcherda tayyorlash.",
+          "Barcha ingredientlarni blenderda aralashtirish.",
+          "Stakanni shokoladli topping bilan bezash.",
+          "Hammasini stakanga quyib, ko‘pirtirilgan qaymoq bilan bezash."
+        ]
+      },
+      "notes": {
+        "ru": [
+          "Можно готовить на альтернативном молоке, вместо коровьего."
+        ],
+        "uz": [
+          "Sigir suti o‘rniga alternativ sutda tayyorlash mumkin."
+        ]
+      }
+    },
+    {
+      "id": "matcha-coconut-pomelo",
+      "name": {
+        "ru": "Матча кокос-помело",
+        "uz": "Kokos-pomelo matcha"
+      },
+      "category": {
+        "ru": "Сезонные",
+        "uz": "Mavsumiy"
+      },
+      "glass": {
+        "ru": "Стакан холод 400 мл",
+        "uz": "Sovuq stakan 400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "400 мл"
+        ],
+        "uz": [
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Матча",
+                "uz": "Matcha"
+              },
+              "amount": {
+                "ru": "2 г",
+                "uz": "2 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Горячая вода",
+                "uz": "Issiq suv"
+              },
+              "amount": {
+                "ru": "30 мл",
+                "uz": "30 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "200 г",
+                "uz": "200 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко кокосовое",
+                "uz": "Kokos suti"
+              },
+              "amount": {
+                "ru": "200 мл",
+                "uz": "200 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Джем помело красное",
+                "uz": "Qizil pomelo jemi"
+              },
+              "amount": {
+                "ru": "20 г",
+                "uz": "20 g"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "В питчер 150 мл насыпать порошок матча.",
+          "Влить горячую воду и тщательно перемешать.",
+          "В стакан поместить лёд, джем и молоко.",
+          "Сверху влить заготовку матчи."
+        ],
+        "uz": [
+          "150 ml pitcherga matcha kukunini solish.",
+          "Issiq suv quyib, yaxshilab aralashtirish.",
+          "Stakanga muz, jem va sut solish.",
+          "Ustidan matcha yarim tayyorini quyish."
+        ]
+      },
+      "notes": {
+        "ru": [
+          "Можно готовить на альтернативном молоке, вместо коровьего."
+        ],
+        "uz": [
+          "Sigir suti o‘rniga alternativ sutda tayyorlash mumkin."
+        ]
+      }
+    },
+    {
+      "id": "ice-tea-lychee-coconut",
+      "name": {
+        "ru": "Айс ти личи-кокос",
+        "uz": "Lichi-kokos ays choy"
+      },
+      "category": {
+        "ru": "Сезонные",
+        "uz": "Mavsumiy"
+      },
+      "glass": {
+        "ru": "Стакан холод 400 мл",
+        "uz": "Sovuq stakan 400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "400 мл"
+        ],
+        "uz": [
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Зелёный чай",
+                "uz": "Ko‘k choy"
+              },
+              "amount": {
+                "ru": "200 мл",
+                "uz": "200 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "150 г",
+                "uz": "150 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Джем личи",
+                "uz": "Lichi jemi"
+              },
+              "amount": {
+                "ru": "50 г",
+                "uz": "50 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Желе кокосовое",
+                "uz": "Kokos jele"
+              },
+              "amount": {
+                "ru": "30 г",
+                "uz": "30 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лимон",
+                "uz": "Limon"
+              },
+              "amount": {
+                "ru": "20 г",
+                "uz": "20 g"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "В стакан поместить желе кокос.",
+          "В шейкер поместить лёд, джем, лимон и заготовку чая и интенсивно взболтать.",
+          "Перелить содержимое шейкера в стакан.",
+          "Украсить всё мятой."
+        ],
+        "uz": [
+          "Stakanga kokos jele solish.",
+          "Sheykerga muz, jem, limon va choy yarim tayyorini solib kuchli chayqatish.",
+          "Sheyker ichidagini stakanga quyish.",
+          "Hammasini yalpiz bilan bezash."
+        ]
+      },
+      "notes": {
+        "ru": [],
+        "uz": []
+      }
+    },
+    {
+      "id": "matcha-bumble-pistachio",
+      "name": {
+        "ru": "Матча бамбл с фисташкой",
+        "uz": "Fistashkali matcha bambl"
+      },
+      "category": {
+        "ru": "Сезонные",
+        "uz": "Mavsumiy"
+      },
+      "glass": {
+        "ru": "Стакан холод 400 мл",
+        "uz": "Sovuq stakan 400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "400 мл"
+        ],
+        "uz": [
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Матча",
+                "uz": "Matcha"
+              },
+              "amount": {
+                "ru": "2 г",
+                "uz": "2 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Горячая вода",
+                "uz": "Issiq suv"
+              },
+              "amount": {
+                "ru": "30 мл",
+                "uz": "30 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Апельсиновый сок",
+                "uz": "Apelsin sharbati"
+              },
+              "amount": {
+                "ru": "200 мл",
+                "uz": "200 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Сироп фисташка",
+                "uz": "Fistashka siropi"
+              },
+              "amount": {
+                "ru": "20 г",
+                "uz": "20 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "150 г",
+                "uz": "150 g"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "В питчер 150 мл насыпать порошок матча.",
+          "Влить горячую воду и тщательно перемешать.",
+          "В стакан поместить сироп, лёд и апельсиновый сок.",
+          "Сверху влить заготовку матчи."
+        ],
+        "uz": [
+          "150 ml pitcherga matcha kukunini solish.",
+          "Issiq suv quyib, yaxshilab aralashtirish.",
+          "Stakanga sirop, muz va apelsin sharbati solish.",
+          "Ustidan matcha yarim tayyorini quyish."
+        ]
+      },
+      "notes": {
+        "ru": [
+          "Можно готовить на альтернативном молоке, вместо коровьего."
+        ],
+        "uz": [
+          "Sigir suti o‘rniga alternativ sutda tayyorlash mumkin."
+        ]
+      }
+    },
+    {
+      "id": "ice-latte-coconut-pistachio",
+      "name": {
+        "ru": "Айс латте кокос-фисташка",
+        "uz": "Kokos-fistashka ays latte"
+      },
+      "category": {
+        "ru": "Сезонные",
+        "uz": "Mavsumiy"
+      },
+      "glass": {
+        "ru": "Стакан холод 400 мл",
+        "uz": "Sovuq stakan 400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "400 мл"
+        ],
+        "uz": [
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Эспрессо",
+                "uz": "Espresso"
+              },
+              "amount": {
+                "ru": "36–40 г",
+                "uz": "36–40 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Молоко 3,2%",
+                "uz": "Sut 3,2%"
+              },
+              "amount": {
+                "ru": "200 мл",
+                "uz": "200 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Желе кокос",
+                "uz": "Kokos jele"
+              },
+              "amount": {
+                "ru": "30 г",
+                "uz": "30 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Сироп фисташка",
+                "uz": "Fistashka siropi"
+              },
+              "amount": {
+                "ru": "30 г",
+                "uz": "30 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "200 г",
+                "uz": "200 g"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Приготовить классический эспрессо в питчер.",
+          "В стакан поместить желе кокос, лёд, молоко и сироп.",
+          "Сверху влить приготовленный эспрессо."
+        ],
+        "uz": [
+          "Klassik espressoni pitcherda tayyorlash.",
+          "Stakanga kokos jele, muz, sut va sirop solish.",
+          "Ustidan tayyor espressoni quyish."
+        ]
+      },
+      "notes": {
+        "ru": [
+          "Можно готовить на альтернативном молоке, вместо коровьего."
+        ],
+        "uz": [
+          "Sigir suti o‘rniga alternativ sutda tayyorlash mumkin."
+        ]
+      }
+    },
+    {
+      "id": "mojito-na",
+      "name": {
+        "ru": "Мохито б/а",
+        "uz": "Alkogolsiz moxito"
+      },
+      "category": {
+        "ru": "Лимонады",
+        "uz": "Limonadlar"
+      },
+      "glass": {
+        "ru": "Стакан холод 400 мл",
+        "uz": "Sovuq stakan 400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "400 мл"
+        ],
+        "uz": [
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "400 мл",
+                "uz": "400 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Сегмент лайма",
+                "uz": "Laym bo‘lagi"
+              },
+              "amount": {
+                "ru": "3 шт",
+                "uz": "3 dona"
+              }
+            },
+            {
+              "name": {
+                "ru": "Мята",
+                "uz": "Yalpiz"
+              },
+              "amount": {
+                "ru": "10 г",
+                "uz": "10 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Сироп сахарный",
+                "uz": "Shakar siropi"
+              },
+              "amount": {
+                "ru": "40 мл",
+                "uz": "40 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Вода с газом",
+                "uz": "Gazli suv"
+              },
+              "amount": {
+                "ru": "200 мл",
+                "uz": "200 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лёд",
+                "uz": "Muz"
+              },
+              "amount": {
+                "ru": "150 г",
+                "uz": "150 g"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "Добавить в стакан лайм и размять мадлером.",
+          "Добавить мяту, лёд, сироп.",
+          "Влить воду с газом и перемешать барной ложкой."
+        ],
+        "uz": [
+          "Stakanga laym qo‘shib, madler bilan ezish.",
+          "Yalpiz, muz va sirop qo‘shish.",
+          "Gazli suv quyib, bar qoshiq bilan aralashtirish."
+        ]
+      },
+      "notes": {
+        "ru": [],
+        "uz": []
+      }
+    },
+    {
+      "id": "sea-buckthorn-tea",
+      "name": {
+        "ru": "Чай с облепихой",
+        "uz": "Oblepixali choy"
+      },
+      "category": {
+        "ru": "Чай",
+        "uz": "Choy"
+      },
+      "glass": {
+        "ru": "Стакан 400 мл",
+        "uz": "Stakan 400 ml"
+      },
+      "volumes": {
+        "ru": [
+          "400 мл"
+        ],
+        "uz": [
+          "400 ml"
+        ]
+      },
+      "verified": true,
+      "sizes": [
+        {
+          "size": {
+            "ru": "400 мл",
+            "uz": "400 ml"
+          },
+          "ingredients": [
+            {
+              "name": {
+                "ru": "Выход",
+                "uz": "Chiqish"
+              },
+              "amount": {
+                "ru": "400 мл",
+                "uz": "400 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Пюре облепиховое",
+                "uz": "Oblepixa pyuresi"
+              },
+              "amount": {
+                "ru": "60 г",
+                "uz": "60 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Лимон",
+                "uz": "Limon"
+              },
+              "amount": {
+                "ru": "20 г",
+                "uz": "20 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Мёд",
+                "uz": "Asal"
+              },
+              "amount": {
+                "ru": "20 г",
+                "uz": "20 g"
+              }
+            },
+            {
+              "name": {
+                "ru": "Горячая вода",
+                "uz": "Issiq suv"
+              },
+              "amount": {
+                "ru": "300 мл",
+                "uz": "300 ml"
+              }
+            },
+            {
+              "name": {
+                "ru": "Мята",
+                "uz": "Yalpiz"
+              },
+              "amount": {
+                "ru": "1 г",
+                "uz": "1 g"
+              }
+            }
+          ]
+        }
+      ],
+      "steps": {
+        "ru": [
+          "В питчер 600 мл добавить все ингредиенты кроме мяты.",
+          "Влить горячую воду из бойлера.",
+          "Размешать содержимое питчера барной ложкой.",
+          "Перелить в стакан 400 мл и добавить мяту."
+        ],
+        "uz": [
+          "600 ml pitcherga yalpizdan tashqari barcha ingredientlarni qo‘shish.",
+          "Boylerdan issiq suv quyish.",
+          "Pitcher ichidagini bar qoshiq bilan aralashtirish.",
+          "400 ml stakanga quyib, yalpiz qo‘shish."
+        ]
+      },
+      "notes": {
+        "ru": [],
+        "uz": []
+      }
+    }
+  ],
+  "storageRules": [
+    {
+      "ru": "Первичный срок годности — срок жизни продукта с момента производства до вскрытия упаковки.",
+      "uz": "Birlamchi yaroqlilik muddati — mahsulot ishlab chiqarilgan paytdan qadoq ochilgungacha bo‘lgan muddat."
+    },
+    {
+      "ru": "Вторичный срок годности — срок жизни продукта после вскрытия упаковки. Вторичный срок не может превышать первичный.",
+      "uz": "Ikkilamchi yaroqlilik muddati — qadoq ochilgandan keyingi muddat. Ikkilamchi muddat birlamchi muddatdan oshmasligi kerak."
+    },
+    {
+      "ru": "Любую продукцию запрещено хранить под прямыми солнечными лучами и при влажности более 65%.",
+      "uz": "Har qanday mahsulotni to‘g‘ridan-to‘g‘ri quyosh nuri ostida va namlik 65% dan yuqori bo‘lgan joyda saqlash taqiqlanadi."
+    },
+    {
+      "ru": "Шоколадосодержащая продукция при температуре в помещении выше 25°C хранится в холодильнике.",
+      "uz": "Xonadagi harorat 25°C dan yuqori bo‘lsa, shokolad tarkibli mahsulotlar muzlatkichda saqlanadi."
+    }
+  ],
+  "storage": [
+    {
+      "item": {
+        "ru": "Лёд в негерметичном пакете",
+        "uz": "Germetik bo‘lmagan paketdagi muz"
+      },
+      "primary": {
+        "ru": "24 часа",
+        "uz": "24 soat"
+      },
+      "secondary": {
+        "ru": "—",
+        "uz": "—"
+      },
+      "temp": "-18…-15°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "Дата и время приготовления",
+        "uz": "Tayyorlangan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Лёд в герметичном пакете",
+        "uz": "Germetik paketdagi muz"
+      },
+      "primary": {
+        "ru": "30 дней со дня производства",
+        "uz": "30 kun ishlab chiqarilgan kundan"
+      },
+      "secondary": {
+        "ru": "24 часа",
+        "uz": "24 soat"
+      },
+      "temp": "-18…-15°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "Дата и время вскрытия упаковки",
+        "uz": "Qadoq ochilgan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Мороженое пломбир для напитков",
+        "uz": "Ichimliklar uchun plombir muzqaymoq"
+      },
+      "primary": {
+        "ru": "12 месяцев со дня производства",
+        "uz": "12 oy ishlab chiqarilgan kundan"
+      },
+      "secondary": {
+        "ru": "—",
+        "uz": "—"
+      },
+      "temp": "-18…-15°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "От даты поставки при переупаковке из транспортной тары",
+        "uz": "Transport qadoqdan qayta qadoqlanganda yetkazilgan sanadan"
+      }
+    },
+    {
+      "item": {
+        "ru": "Мороженое в ассортименте",
+        "uz": "Assortimentdagi muzqaymoq"
+      },
+      "primary": {
+        "ru": "12 месяцев со дня производства",
+        "uz": "12 oy ishlab chiqarilgan kundan"
+      },
+      "secondary": {
+        "ru": "—",
+        "uz": "—"
+      },
+      "temp": "-18…-15°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "—",
+        "uz": "—"
+      }
+    },
+    {
+      "item": {
+        "ru": "Вода без газа",
+        "uz": "Gazsiz suv"
+      },
+      "primary": {
+        "ru": "Согласно данным на упаковке",
+        "uz": "Qadoqdagi maʼlumotga ko‘ra"
+      },
+      "secondary": {
+        "ru": "—",
+        "uz": "—"
+      },
+      "temp": "+2…+4°C / +21…+25°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "—",
+        "uz": "—"
+      }
+    },
+    {
+      "item": {
+        "ru": "Вода с газом",
+        "uz": "Gazli suv"
+      },
+      "primary": {
+        "ru": "Согласно данным на упаковке",
+        "uz": "Qadoqdagi maʼlumotga ko‘ra"
+      },
+      "secondary": {
+        "ru": "48 часов",
+        "uz": "48 soat"
+      },
+      "temp": "+2…+4°C / +21…+25°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "Дата и время вскрытия упаковки",
+        "uz": "Qadoq ochilgan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Джем в ассортименте",
+        "uz": "Assortimentdagi jem"
+      },
+      "primary": {
+        "ru": "Согласно данным на упаковке",
+        "uz": "Qadoqdagi maʼlumotga ko‘ra"
+      },
+      "secondary": {
+        "ru": "3 месяца",
+        "uz": "3 oy"
+      },
+      "temp": "+2…+4°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "Дата и время вскрытия упаковки",
+        "uz": "Qadoq ochilgan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Желе кокосовое",
+        "uz": "Kokos jele"
+      },
+      "primary": {
+        "ru": "Согласно данным на упаковке",
+        "uz": "Qadoqdagi maʼlumotga ko‘ra"
+      },
+      "secondary": {
+        "ru": "1 месяц",
+        "uz": "1 oy"
+      },
+      "temp": "+2…+4°C",
+      "place": {
+        "ru": "Пластиковая тара с крышкой",
+        "uz": "Qopqoqli plastik idish"
+      },
+      "marking": {
+        "ru": "Дата и время вскрытия упаковки",
+        "uz": "Qadoq ochilgan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Лайм",
+        "uz": "Laym"
+      },
+      "primary": {
+        "ru": "Потеря органолептических свойств",
+        "uz": "Organoleptik xususiyatlar yo‘qolguncha"
+      },
+      "secondary": {
+        "ru": "24 часа",
+        "uz": "24 soat"
+      },
+      "temp": "+2…+4°C",
+      "place": {
+        "ru": "Гастроёмкость с крышкой",
+        "uz": "Qopqoqli gastronorm idish"
+      },
+      "marking": {
+        "ru": "Дата и время приготовления",
+        "uz": "Tayyorlangan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Лимон",
+        "uz": "Limon"
+      },
+      "primary": {
+        "ru": "Потеря органолептических свойств",
+        "uz": "Organoleptik xususiyatlar yo‘qolguncha"
+      },
+      "secondary": {
+        "ru": "24 часа",
+        "uz": "24 soat"
+      },
+      "temp": "+2…+4°C",
+      "place": {
+        "ru": "Гастроёмкость с крышкой",
+        "uz": "Qopqoqli gastronorm idish"
+      },
+      "marking": {
+        "ru": "Дата и время приготовления",
+        "uz": "Tayyorlangan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Молоко 3,2% / 2%",
+        "uz": "Sut 3,2% / 2%"
+      },
+      "primary": {
+        "ru": "Согласно данным на упаковке",
+        "uz": "Qadoqdagi maʼlumotga ko‘ra"
+      },
+      "secondary": {
+        "ru": "48 часов",
+        "uz": "48 soat"
+      },
+      "temp": "+2…+4°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "Дата и время вскрытия упаковки",
+        "uz": "Qadoq ochilgan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Молоко растительное в ассортименте",
+        "uz": "Assortimentdagi o‘simlik suti"
+      },
+      "primary": {
+        "ru": "Согласно данным на упаковке",
+        "uz": "Qadoqdagi maʼlumotga ko‘ra"
+      },
+      "secondary": {
+        "ru": "96 часов",
+        "uz": "96 soat"
+      },
+      "temp": "+2…+4°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "Дата и время вскрытия упаковки",
+        "uz": "Qadoq ochilgan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Молоко безлактозное",
+        "uz": "Laktozasiz sut"
+      },
+      "primary": {
+        "ru": "Согласно данным на упаковке",
+        "uz": "Qadoqdagi maʼlumotga ko‘ra"
+      },
+      "secondary": {
+        "ru": "48 часов",
+        "uz": "48 soat"
+      },
+      "temp": "+2…+4°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "Дата и время вскрытия упаковки",
+        "uz": "Qadoq ochilgan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Пюре в ассортименте",
+        "uz": "Assortimentdagi pyure"
+      },
+      "primary": {
+        "ru": "Согласно данным на упаковке",
+        "uz": "Qadoqdagi maʼlumotga ko‘ra"
+      },
+      "secondary": {
+        "ru": "—",
+        "uz": "—"
+      },
+      "temp": "+2…+4°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "Дата и время вскрытия упаковки",
+        "uz": "Qadoq ochilgan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Сливки 11%",
+        "uz": "Qaymoq 11%"
+      },
+      "primary": {
+        "ru": "Согласно данным на упаковке",
+        "uz": "Qadoqdagi maʼlumotga ko‘ra"
+      },
+      "secondary": {
+        "ru": "48 часов",
+        "uz": "48 soat"
+      },
+      "temp": "+2…+4°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "Дата и время вскрытия упаковки",
+        "uz": "Qadoq ochilgan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Сливки 27%",
+        "uz": "Qaymoq 27%"
+      },
+      "primary": {
+        "ru": "Согласно данным на упаковке",
+        "uz": "Qadoqdagi maʼlumotga ko‘ra"
+      },
+      "secondary": {
+        "ru": "48 часов",
+        "uz": "48 soat"
+      },
+      "temp": "+2…+4°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "Дата и время вскрытия упаковки",
+        "uz": "Qadoq ochilgan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Топпинг шоколадный",
+        "uz": "Shokoladli topping"
+      },
+      "primary": {
+        "ru": "Согласно данным на упаковке",
+        "uz": "Qadoqdagi maʼlumotga ko‘ra"
+      },
+      "secondary": {
+        "ru": "3 месяца",
+        "uz": "3 oy"
+      },
+      "temp": "+2…+4°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "Дата и время вскрытия упаковки",
+        "uz": "Qadoq ochilgan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Сок в ассортименте",
+        "uz": "Assortimentdagi sharbat"
+      },
+      "primary": {
+        "ru": "Согласно данным на упаковке",
+        "uz": "Qadoqdagi maʼlumotga ko‘ra"
+      },
+      "secondary": {
+        "ru": "24 часа",
+        "uz": "24 soat"
+      },
+      "temp": "+2…+4°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "Дата и время вскрытия упаковки",
+        "uz": "Qadoq ochilgan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Заготовка «Взбитые сливки»",
+        "uz": "«Ko‘pirtirilgan qaymoq» yarim tayyori"
+      },
+      "primary": {
+        "ru": "—",
+        "uz": "—"
+      },
+      "secondary": {
+        "ru": "7 суток",
+        "uz": "7 sutka"
+      },
+      "temp": "+2…+4°C",
+      "place": {
+        "ru": "Кремер / сифон",
+        "uz": "Kremer / sifon"
+      },
+      "marking": {
+        "ru": "Дата и время приготовления",
+        "uz": "Tayyorlangan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Заготовка «Охлаждённый чай»",
+        "uz": "«Sovutilgan choy» yarim tayyori"
+      },
+      "primary": {
+        "ru": "—",
+        "uz": "—"
+      },
+      "secondary": {
+        "ru": "24 часа",
+        "uz": "24 soat"
+      },
+      "temp": "+2…+4°C",
+      "place": {
+        "ru": "Пластиковый графин с крышкой",
+        "uz": "Qopqoqli plastik grafin"
+      },
+      "marking": {
+        "ru": "Дата и время приготовления",
+        "uz": "Tayyorlangan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Заготовка «Мята»",
+        "uz": "«Yalpiz» yarim tayyori"
+      },
+      "primary": {
+        "ru": "—",
+        "uz": "—"
+      },
+      "secondary": {
+        "ru": "Потеря органолептических свойств",
+        "uz": "Organoleptik xususiyatlar yo‘qolguncha"
+      },
+      "temp": "+2…+4°C",
+      "place": {
+        "ru": "Гастроёмкость с крышкой",
+        "uz": "Qopqoqli gastronorm idish"
+      },
+      "marking": {
+        "ru": "Дата и время приготовления",
+        "uz": "Tayyorlangan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Заготовка «Холодный батч»",
+        "uz": "«Sovuq batch» yarim tayyori"
+      },
+      "primary": {
+        "ru": "—",
+        "uz": "—"
+      },
+      "secondary": {
+        "ru": "7 дней",
+        "uz": "7 kun"
+      },
+      "temp": "+2…+4°C",
+      "place": {
+        "ru": "Пластиковый графин с крышкой",
+        "uz": "Qopqoqli plastik grafin"
+      },
+      "marking": {
+        "ru": "Дата и время приготовления",
+        "uz": "Tayyorlangan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Кофе Espresso смесь 1 кг",
+        "uz": "Espresso qahva aralashmasi 1 kg"
+      },
+      "primary": {
+        "ru": "3 месяца со дня обжарки",
+        "uz": "3 oy qovurilgan kundan"
+      },
+      "secondary": {
+        "ru": "48 часов",
+        "uz": "48 soat"
+      },
+      "temp": "+21…+25°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "Дата и время вскрытия упаковки",
+        "uz": "Qadoq ochilgan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Кофе Декаф 0,25 кг",
+        "uz": "Decaf qahva 0,25 kg"
+      },
+      "primary": {
+        "ru": "6 месяцев со дня обжарки",
+        "uz": "6 oy qovurilgan kundan"
+      },
+      "secondary": {
+        "ru": "3 месяца",
+        "uz": "3 oy"
+      },
+      "temp": "+21…+25°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "Дата и время вскрытия упаковки",
+        "uz": "Qadoq ochilgan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Кофе в упаковке 0,25 кг в ассортименте",
+        "uz": "Qadoqdagi qahva 0,25 kg, assortimentda"
+      },
+      "primary": {
+        "ru": "3 месяца со дня обжарки",
+        "uz": "3 oy qovurilgan kundan"
+      },
+      "secondary": {
+        "ru": "72 часа",
+        "uz": "72 soat"
+      },
+      "temp": "+21…+25°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "Дата и время вскрытия упаковки",
+        "uz": "Qadoq ochilgan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Кофе в дрип-пакетах",
+        "uz": "Drip paketdagi qahva"
+      },
+      "primary": {
+        "ru": "3 месяца со дня обжарки",
+        "uz": "3 oy qovurilgan kundan"
+      },
+      "secondary": {
+        "ru": "—",
+        "uz": "—"
+      },
+      "temp": "+21…+25°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "—",
+        "uz": "—"
+      }
+    },
+    {
+      "item": {
+        "ru": "Какао",
+        "uz": "Kakao"
+      },
+      "primary": {
+        "ru": "Согласно данным на упаковке",
+        "uz": "Qadoqdagi maʼlumotga ko‘ra"
+      },
+      "secondary": {
+        "ru": "6 месяцев",
+        "uz": "6 oy"
+      },
+      "temp": "+21…+25°C",
+      "place": {
+        "ru": "Гастроёмкость с крышкой",
+        "uz": "Qopqoqli gastronorm idish"
+      },
+      "marking": {
+        "ru": "Дата и время вскрытия упаковки",
+        "uz": "Qadoq ochilgan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Корица молотая",
+        "uz": "Maydalangan dolchin"
+      },
+      "primary": {
+        "ru": "6 месяцев со дня поставки",
+        "uz": "6 oy yetkazilgan kundan"
+      },
+      "secondary": {
+        "ru": "6 месяцев",
+        "uz": "6 oy"
+      },
+      "temp": "+21…+25°C",
+      "place": {
+        "ru": "Гастроёмкость с крышкой",
+        "uz": "Qopqoqli gastronorm idish"
+      },
+      "marking": {
+        "ru": "Дата поставки",
+        "uz": "Yetkazilgan sana"
+      }
+    },
+    {
+      "item": {
+        "ru": "Сахар",
+        "uz": "Shakar"
+      },
+      "primary": {
+        "ru": "6 месяцев со дня поставки",
+        "uz": "6 oy yetkazilgan kundan"
+      },
+      "secondary": {
+        "ru": "—",
+        "uz": "—"
+      },
+      "temp": "+21…+25°C",
+      "place": {
+        "ru": "Под стеклянным куполом",
+        "uz": "Shisha kupol ostida"
+      },
+      "marking": {
+        "ru": "Дата и время поставки",
+        "uz": "Yetkazilgan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Сахарозаменитель",
+        "uz": "Shakar o‘rnini bosuvchi"
+      },
+      "primary": {
+        "ru": "Согласно данным на упаковке",
+        "uz": "Qadoqdagi maʼlumotga ko‘ra"
+      },
+      "secondary": {
+        "ru": "6 месяцев",
+        "uz": "6 oy"
+      },
+      "temp": "+21…+25°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "Дата и время вскрытия упаковки",
+        "uz": "Qadoq ochilgan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Круассаны в ассортименте",
+        "uz": "Assortimentdagi kruassanlar"
+      },
+      "primary": {
+        "ru": "24 часа от времени поставки",
+        "uz": "24 soat yetkazilgan vaqtdan"
+      },
+      "secondary": {
+        "ru": "—",
+        "uz": "—"
+      },
+      "temp": "+21…+25°C",
+      "place": {
+        "ru": "Под стеклянным куполом",
+        "uz": "Shisha kupol ostida"
+      },
+      "marking": {
+        "ru": "Дата и время поставки",
+        "uz": "Yetkazilgan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Соус Creami 1,4 кг в ассортименте",
+        "uz": "Creami sousi 1,4 kg, assortimentda"
+      },
+      "primary": {
+        "ru": "Согласно данным на упаковке",
+        "uz": "Qadoqdagi maʼlumotga ko‘ra"
+      },
+      "secondary": {
+        "ru": "1 месяц",
+        "uz": "1 oy"
+      },
+      "temp": "+21…+25°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "Дата и время вскрытия упаковки",
+        "uz": "Qadoq ochilgan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Сиропы в ассортименте",
+        "uz": "Assortimentdagi siroplar"
+      },
+      "primary": {
+        "ru": "Согласно данным на упаковке",
+        "uz": "Qadoqdagi maʼlumotga ko‘ra"
+      },
+      "secondary": {
+        "ru": "3 месяца",
+        "uz": "3 oy"
+      },
+      "temp": "+21…+25°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "Дата и время вскрытия упаковки",
+        "uz": "Qadoq ochilgan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Мёд",
+        "uz": "Asal"
+      },
+      "primary": {
+        "ru": "Согласно данным на упаковке",
+        "uz": "Qadoqdagi maʼlumotga ko‘ra"
+      },
+      "secondary": {
+        "ru": "8 месяцев",
+        "uz": "8 oy"
+      },
+      "temp": "+21…+25°C",
+      "place": {
+        "ru": "Соусник с дозатором",
+        "uz": "Dozatorli sous idishi"
+      },
+      "marking": {
+        "ru": "Дата и время приготовления",
+        "uz": "Tayyorlangan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Заготовка «Батч брю»",
+        "uz": "«Batch brew» yarim tayyori"
+      },
+      "primary": {
+        "ru": "—",
+        "uz": "—"
+      },
+      "secondary": {
+        "ru": "6 часов",
+        "uz": "6 soat"
+      },
+      "temp": "+21…+25°C",
+      "place": {
+        "ru": "Термос",
+        "uz": "Termos"
+      },
+      "marking": {
+        "ru": "Дата и время приготовления",
+        "uz": "Tayyorlangan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Заготовка «Сахарный сироп»",
+        "uz": "«Shakar siropi» yarim tayyori"
+      },
+      "primary": {
+        "ru": "—",
+        "uz": "—"
+      },
+      "secondary": {
+        "ru": "7 суток",
+        "uz": "7 sutka"
+      },
+      "temp": "+21…+25°C",
+      "place": {
+        "ru": "Стеклянная бутылка",
+        "uz": "Shisha butilka"
+      },
+      "marking": {
+        "ru": "Дата и время приготовления",
+        "uz": "Tayyorlangan sana va vaqt"
+      }
+    },
+    {
+      "item": {
+        "ru": "Чай на продажу в ассортименте",
+        "uz": "Sotuvdagi choy, assortimentda"
+      },
+      "primary": {
+        "ru": "Согласно данным на упаковке",
+        "uz": "Qadoqdagi maʼlumotga ko‘ra"
+      },
+      "secondary": {
+        "ru": "6 месяцев",
+        "uz": "6 oy"
+      },
+      "temp": "+21…+25°C",
+      "place": {
+        "ru": "Собственная упаковка",
+        "uz": "O‘z qadoqi"
+      },
+      "marking": {
+        "ru": "Дата и время вскрытия упаковки",
+        "uz": "Qadoq ochilgan sana va vaqt"
+      }
+    }
+  ]
+}
